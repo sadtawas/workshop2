@@ -1,6 +1,6 @@
 # จงแสดง "banana"
 fruits = ["apple", "banana", "cherry"]
-print([1])
+print(fruits[1])
 
 # จงแก้ไขข้อมูลจาก "apple" เป็น "kiwi"
 fruits = ["apple", "banana", "cherry"]
